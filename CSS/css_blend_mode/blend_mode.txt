@@ -1,0 +1,3 @@
+Test blend mode values
+
+https://codepen.io/Guilh/full/xehsD
